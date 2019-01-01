@@ -12,7 +12,7 @@ house in front of each recipe.
 
 ### Format
 
-The recipes are in the (GitHub flavor of Markdown)[https://help.github.com/articles/basic-writing-and-formatting-syntax/] because that's the right answer.
+The recipes are in the [GitHub flavor of Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/) because that's the right answer.
 
 They begin with the entire ingredient list and finish with instructions.
 
