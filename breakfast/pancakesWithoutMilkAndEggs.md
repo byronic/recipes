@@ -1,5 +1,7 @@
 ## Ingredients
 
+**This does not make a lot of pancakes. You may wish to double, or even triple, the recipe**
+
 - 1 cup  all-purpose flour
 - ¼ teaspoon  salt
 - 2 teaspoons  baking powder
