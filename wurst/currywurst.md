@@ -13,7 +13,7 @@
 ## Instructions
 
 - Cut slits on both sides of the sausages to prevent them from bursting while cooking.
-- Heat oil in a skillet over medium heat. Fry the sausages for 3 minutes each side or until brown. Transfer to a plate once cooked.
+- Heat oil in a skillet over medium-low heat. Put in the sausages, cover, and simmer 6-7 minutes per side or until cooked throughout. Transfer to a plate once cooked.
 - In the same skillet with oil, pour about 3/4 of the tomato ketchup and water. Add baking soda and let it simmer while constantly stirring for another minute or until the bubbles subside.
 - Add the remaining tomato ketchup. Stir in onion powder, cayenne powder, soy sauce and curry powder. Bring to a simmer for another 2-3 minutes.
 - Pour the sauce over the sausages. Serve the currywurst with french fries or buns.
