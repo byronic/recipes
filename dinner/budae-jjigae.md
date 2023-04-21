@@ -4,7 +4,7 @@
 - 8 cups water for stock, 2 tsp water for sauce
 - package enoki mushrooms, washed and cut
 - (experimental) bouillon cube
-- (optional) pork belly; pork sausage can be used if cut, but note that you need this in the stock as well as the later steps!
+- (optional) pork belly 
 - 6 garlic cloves, minced
 - 1 tbsp hot pepper paste (go chu jang [sp?])
 - 2 tbsp hot pepper flakes (gochugaru [sp?])
